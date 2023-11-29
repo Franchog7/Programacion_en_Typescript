@@ -1,0 +1,27 @@
+{
+  "name": "programacion_en_typescript",
+  "version": "1.0.0",
+  "description": "Primer Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franchog7/Programacion_en_Typescript.git"
+  },
+  "keywords": [
+    "primer"
+  ],
+  "author": "Francisco G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Franchog7/Programacion_en_Typescript/issues"
+  },
+  "homepage": "https://github.com/Franchog7/Programacion_en_Typescript#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1"
+  }
+}
